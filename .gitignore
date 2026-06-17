@@ -1,0 +1,22 @@
+# Entornos
+venv/
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# PySide/Qt
+*.ui.autosave
+
+# Testing
+.pytest_cache/
